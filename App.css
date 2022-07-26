@@ -1,0 +1,36 @@
+#tabla {
+  text-align: center;
+  margin: auto;
+  
+}
+
+#foodC{
+  width:15%;
+  margin-right: 10%;
+}
+#hina{
+  width: 15%;
+  margin-left: 10%;
+}
+
+#tcuerpo {
+  text-align: left;
+  width: 20%;
+  
+
+}
+
+#head {
+  text-align: center;
+}
+
+#boton {
+  margin: auto;
+}
+
+form {
+  margin-left: 20%;
+}
+footer{
+  text-align: center;
+}
